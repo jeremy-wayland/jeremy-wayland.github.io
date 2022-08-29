@@ -1,0 +1,4 @@
+baseURL = 'https://waylandj10.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-coder"
