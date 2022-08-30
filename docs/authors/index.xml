@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Jeremy Wayland</title>
-    <link>https://waylandj10.github.io/authors/</link>
+    <link>https://jeremy-wayland.github.io/authors/</link>
     <description>Recent content in Authors on Jeremy Wayland</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://waylandj10.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jeremy-wayland.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
