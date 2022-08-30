@@ -1,6 +1,6 @@
 baseURL = 'https://jeremy-wayland.github.io/'
 languageCode = 'en-us'
-title = 'Jeremy Wayland'
+title = 'Jeremy Don Wayland'
 theme = "hugo-coder"
 defaultContentLanguage = "en"
 publishDir = "docs"
@@ -136,13 +136,13 @@ url = "https://scholar.google.com/citations?hl=en&user=FucrCk8AAAAJ"
 name = "Gmail"
 icon = "fa fa-2x fa-email-bulk"
 weight = 5
-url = "mailto:jeremy.don.wayland@gmail.com"
+url = "mailto:jeremy.wayland@helmholtz.de"
 
 [languages.en]
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About Me"
+name = "About"
 weight = 1
 url = "about/"
 
@@ -154,10 +154,15 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Research"
 weight = 3
-url = "projects/"
+url = "research/"
 
 [[languages.en.menu.main]]
 name = "CV"
 weight = 5
-url = "contact/"
+url = "cv/"
 
+
+[[languages.en.menu.main]]
+name = "Extracurriculars"
+weight = 5
+url = "extracurriculars/"
