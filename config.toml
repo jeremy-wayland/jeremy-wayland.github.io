@@ -159,7 +159,7 @@ url = "research/"
 [[languages.en.menu.main]]
 name = "CV"
 weight = 5
-url = "cv/"
+url = "cv/Current_CV.pdf"
 
 
 [[languages.en.menu.main]]

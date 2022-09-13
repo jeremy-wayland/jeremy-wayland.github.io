@@ -6,5 +6,41 @@
     <description>Recent content on Jeremy Don Wayland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jeremy-wayland.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jeremy-wayland.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremy-wayland.github.io/about/</guid>
+      <description>About Link to heading Hello and welcome! I&amp;rsquo;m Jeremy. I&amp;rsquo;m a first year PhD student at Helmholtz Munich, working under Bastian Rieck in the AIDOS Lab. We are a new group that has recently started at the Institute of Artifical Intelligence for Health. I encourage you to check out the lab website if you are interested in colloborating, joining, or just want to learn about what we do! I also have a dual appointment in the Mathematics department at the Techincal University of Munich, where I am co-supervised by Dr.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jeremy-wayland.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremy-wayland.github.io/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jeremy-wayland.github.io/extracurriculars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremy-wayland.github.io/extracurriculars/</guid>
+      <description>Photos Link to heading Coming soon, pictures of surfing, snowboarding, hiking, and music!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jeremy-wayland.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremy-wayland.github.io/research/</guid>
+      <description>Research Link to heading Broadly speaking, I am interested in the interface between mathematics and data science. This began as an undergraduate where I started to notice profound connections between my coursework in pure mathematics and my research in observational and theoretical astrophysics. Investigations and reading courses on topics in category theory and topology with the faculty at Chapman University (shoutout Drew Moshier and Alex Kurz) during my Master&amp;rsquo;s in computational sciences made this niche even more compelling.</description>
+    </item>
+    
   </channel>
 </rss>

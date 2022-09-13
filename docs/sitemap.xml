@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jeremy-wayland.github.io/about/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://jeremy-wayland.github.io/cv/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://jeremy-wayland.github.io/extracurriculars/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://jeremy-wayland.github.io/research/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://jeremy-wayland.github.io/authors/</loc>
   </url><url>
     <loc>https://jeremy-wayland.github.io/categories/</loc>

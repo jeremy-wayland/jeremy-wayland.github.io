@@ -1,3 +1,6 @@
 # Research
+Broadly speaking, I am interested in the interface between mathematics and data science. This began as an undergraduate where I started to notice profound connections between my coursework in pure mathematics and my research in observational and theoretical astrophysics. Investigations and reading courses on topics in category theory and topology with the faculty at Chapman University (shoutout Drew Moshier and Alex Kurz) during my Master's in computational sciences made this niche even more compelling. Inevitably, I found topological data analysis (TDA) and computational topology. The rest is history!
 
-Testing... sample text will go here!
+At the moment, I am interested in understanding applications of different curvature measures on finite, undirected graphs. The hope is to bring ideas from differential geometry and computational topology and adapt them to discrete structures (e.g. graphs) in order to bring a more well-principled and expressive method for comparing discrete structures, or even distributions of discrete structures. Additionally, I am interested in developing unsupervised methods for replacing the standard choice of L2 Norm; i.e., methods for generating more informed metrics for a given comparison based on the geometry and topology of the ambient space.
+
+I will try to keep this page updated to reflect what projects I am thinking about/working on at the moment. If you'd like to chat, please send me an email!
