@@ -17,5 +17,3 @@
 ![](./paddle.jpeg)
 ![](./hike_stu.JPG)
 ![](./water_ski.JPG)
-![](./morrison.JPG)
-
