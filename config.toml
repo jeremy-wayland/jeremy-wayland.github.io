@@ -90,13 +90,13 @@ stylesrc = [
   "'self'",
   "'unsafe-inline'",
   "https://fonts.googleapis.com/",
-  "https://cdn.jsdelivr.net/"
+  "https://cdn.jsdelivr.net/",
 ]
 scriptsrc = [
   "'self'",
   "'unsafe-inline'",
   "https://www.google-analytics.com",
-  "https://cdn.jsdelivr.net/"
+  "https://cdn.jsdelivr.net/",
 ]
 prefetchsrc = ["'self'"]
 # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
@@ -121,10 +121,17 @@ weight = 4
 url = "https://twitter.com/jeremy_wayland/"
 
 [[params.social]]
+name = "ORCID"
+icon = "fa fa-2x fa-orcid"
+weight = 2
+url = "https://orcid.org/0000-0002-8766-8737"
+
+[[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 2
 url = "https://www.linkedin.com/in/jeremy-wayland/"
+
 
 [[params.social]]
 name = "GoogleScholar"
