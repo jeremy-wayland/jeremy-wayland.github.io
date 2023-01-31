@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jeremy-wayland.github.io/about/</guid>
-      <description>About Link to heading Hello and welcome! I’m Jeremy. I’m a first year PhD student at Helmholtz Munich, working under Dr. Bastian Rieck in the AIDOS Lab. We are a new group at the Institute of Artificial Intelligence for Health interested and I encourage you to check our the lab website. I am also co-supervised by Dr. Ulrich Bauer in the Mathematics department at the Technical University of Munich. As a doctoral researcher, I hope to leverage my background in pure mathematics to develop novel and well principled methods in the machine learning and data science space.</description>
+      <description>About Link to heading Hello and welcome! I’m Jeremy. I’m a first year PhD student at Helmholtz Munich, working under Dr. Bastian Rieck in the AIDOS Lab. We are a new group at the Institute of Artificial Intelligence for Health interested in topological and geometric machine learning. I am also co-supervised by Dr. Ulrich Bauer in the Mathematics department at the Technical University of Munich. As a doctoral researcher, I hope to leverage my background in pure mathematics to develop novel and well principled methods in the machine learning and data science space.</description>
     </item>
     
     <item>
@@ -39,7 +39,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jeremy-wayland.github.io/research/</guid>
-      <description>Research Link to heading Broadly speaking, I am interested in the interface between mathematics and data science. This began as an undergraduate where I started to notice profound connections between my coursework in pure mathematics and my research in observational and theoretical astrophysics. Investigations and reading courses on topics in category theory, topology, and machine learning during my Master&amp;rsquo;s (shoutout Drew Moshier and Alex Kurz) made this niche even more compelling.</description>
+      <description>Research Link to heading New Preprint: Curvature Filtrations for Graph Generative Model Evaluation
+At the moment, I am interested in understanding applications of different curvature measures on finite, undirected graphs. The hope is to bring ideas from differential geometry and computational topology and adapt them to discrete structures (e.g. graphs) and use them to bolster graph topics in graph learning. In this first work, we target graph generative modeling workflows by providing a more expressive, foundational comparison method for distributions of graphs.</description>
     </item>
     
   </channel>
