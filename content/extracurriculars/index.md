@@ -6,6 +6,7 @@
 ![](./surf_barrel2.JPG)
 ![](./surf_section.jpeg)
 
+
 # Cello
 ![](./cello1.jpg)
 ![](./cello_grant.jpeg)
@@ -13,7 +14,7 @@
 ![](./cello_divers.jpeg)
 
 # A few others!
-![](./snowboard.JPG)
 ![](./paddle.jpeg)
+![](./morrison.JPG)
 ![](./hike_stu.JPG)
 ![](./water_ski.JPG)
