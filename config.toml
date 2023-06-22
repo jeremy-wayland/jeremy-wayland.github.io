@@ -143,7 +143,7 @@ url = "https://scholar.google.com/citations?hl=en&user=FucrCk8AAAAJ"
 name = "Gmail"
 icon = "fa fa-2x fa-email-bulk"
 weight = 5
-url = "mailto:jeremy.wayland@helmholtz.de"
+url = "mailto:jeremydon.wayland@helmholtz-munich.de"
 
 [languages.en]
 languageName = ":uk:"
