@@ -1,9 +1,12 @@
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Jeremy."
-  subtitle: "Front-End Developer"
-  description: "This is a good place to start with an introduction about yourself. Maybe a mention to the place <a target='_blank' href='https://www.adrianmoreno.info/'>where you work</a>. You can also mention where you live, your background and what's the purpose of the site. <br>You can download this theme from <a target='_blank' href='https://github.com/zetxek/adritian-free-hugo-theme'>github</a>."
+  title: "Hi, I'm Jeremy."
+  subtitle: "Doctoral Researcher"
+  description: "Jeremy is interested developing practical and usable topology-based
+  methods for improving our understanding of various generative models. 
+  Additionally, he enjoys applying topological methods in collaborative projects
+   that focus on predictive medicine and/or climate change."
   image:
     x: "images/portrait.jpeg"
     _2x: "images/portrait@2x.jpeg"
@@ -31,7 +34,7 @@ showcase:
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "A bit about me."
   content: '<p class="lead">
     I am back, after a few days of vacationing with family. Weather was awesome, the beach was
     full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
@@ -47,21 +50,26 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/adrianmoreno/"
   image:
-    x: "images/surf-turn.jpg"
-    _2x: "images/surf-turn@2x.jpg"
+    x: "images/surf_barrel.JPG"
+    _2x: "images/surf_barrel@2x.JPG"
 
 # education
 education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
-
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "Technical University of Munich"
+      year: "2022-Present"
+      degree: "Doctoral Candidate, School of Computation, Information, and Technology."
+    - university: "Chapman University"
+      year: "2020-2022"
+      degree: "Master of Science (MSc), Computational and Data Sciences."
+    - university: "University of California, Berkeley"
+      year: "2015-2019"
+      degree: "Bachelor of Arts (BA with Honors), Mathematics | Bachelor of Arts (BA), Astrophysics."
+    - university: "El Toro High School"
+      year: "Class of 2015"
+      degree: "International Baccalaureate Diploma and AP Scholar."
 
 # experience
 experience:
@@ -71,7 +79,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/adrianmoreno/"
+    URL: "https://www.linkedin.com/in/jeremy-wayland/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
