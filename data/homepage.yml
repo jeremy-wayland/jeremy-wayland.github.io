@@ -2,9 +2,11 @@
 showcase:
   enable: true
   title: "Hi, I'm Jeremy."
-  subtitle: "Doctoral Researcher"
+  subtitle: "Researcher | Founder"
   description: "Jeremy is interested developing practical and usable topology-based
   methods for improving our understanding of various generative models. 
+  Additionally, he enjoys applying topological methods in collaborative projects
+  that focus on predictive medicine and/or climate change.
   Additionally, he enjoys applying topological methods in collaborative projects
    that focus on predictive medicine and/or climate change."
   image:
@@ -16,22 +18,29 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://jeremy-wayland.me/#contact"
+    URL: "mailto:jeremy.don.wayland@gmail.com"
 
   socialLinks:
-    - icon: "github"
-      URL: "https://github.com/jeremy-wayland"
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/jeremy-wayland/"
-
-    - icon: "twitter"
-      URL: "https://twitter.com/jeremy_wayland"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/zetxek/"
+  - icon: "icon-mail-fill"
+    URL: ""
+  - icon: "github"
+    URL: "https://github.com/jeremy-wayland"
+  - icon: "linkedin"
+    URL: "https://www.linkedin.com/in/jeremy-wayland/"
+  - icon: "twitter"
+    URL: "https://twitter.com/jeremy_wayland"
+  - icon: "facebook"
+    URL: "https://www.facebook.com/jeremy.wayland.92"
+  # - icon: "orchid"
+  #   URL: "https://orchid.org/0000-0002-1825-0097"
+  # - icon: "google-scholar"
+  #   URL: "https://scholar.google.com/citations?user=your_google_scholar_id"
+  # - icon: "website"
+  #   URL: "https://www.example.com"
 
 
 # about
+
 about:
   enable: true
   title: "A bit about me."
@@ -50,8 +59,81 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/adrianmoreno/"
   image:
-    x: "images/surf_barrel.JPG"
-    _2x: "images/surf_barrel@2x.JPG"
+    x: "images/manzanillo_.JPG"
+    _2x: "images/manzanillo_@2x.JPG"
+
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I'm a bit of a wanderer in the realm of knowledge and innovation. 
+  Currently, I'm diving deep into the world of AI and healthcare as a 
+  Doctoral Researcher at AIDOS Lab, Helmholtz Munich. 
+  Under the guidance of Dr. Bastian Rieck, I'm exploring the fascinating realms 
+  of topological and geometric deep learning, among other mind-bending topics.
+  When I'm not in the lab, you might find me hustling as a Co-founder at Krv 
+  Analytics, where we're on a mission to revolutionize analytics solutions. 
+  It's been a wild ride, from strategic planning to getting our hands dirty with 
+  product development – every step feels like an adventure.
+  But that's not all! I've also had the privilege of interning at the 
+  Children’s Hospital of Orange County, where I got a firsthand look at the 
+  intersection of research and healthcare.
+  Yeah, it's been quite the journey, and I'm just getting started! 🚀"
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/jeremy-wayland/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://jeremy-wayland.me/cv/Current_CV.pdf"
+
+  items:
+  - title: "Doctoral Researcher"
+    company: "AIDOS Lab, Helmholtz Munich"
+    duration: "August 2022-Present"
+    details:
+      - "Doctoral Candidate working at the Institute of AI for Health."
+      - "Supervisor: Dr. Bastian Rieck."
+      - "Research Interests: topological and geometric deep learning, graph learning and discrete curvature, diffusion modeling, applying topological data analysis to healthcare and climate change."
+
+  - title: "Co-founder"
+    company: "Krv Analytics"
+    duration: "July 2023 - Present"
+    details:
+      - "Co-founding and leading a startup focused on analytics solutions."
+      - "Responsibilities include strategic planning, product development, and business operations."
+
+  - title: "Research Science Doctoral Intern"
+    company: "Children’s Hospital of Orange County, Orange CA"
+    duration: "May 2023 - Present"
+
+  - title: "Grant Funded Research Computational Scientist"
+    company: "Children’s Hospital of Orange County, Orange CA"
+    duration: "June 2022 - August 2022"
+    details:
+      - "Predicting onset of sepsis for ED patients using machine learning and artificial intelligence."
+      - "Spearheading multicenter collaboration between CHOC, UCI, McMaster, and University of Iowa for predictive risk analysis of recurring urinary tract infections (UTIs) among children using machine learning and topological data analysis."
+      - "Skills: Sepsis, Urology, Deep Learning, Python, R, Computational Topology, Persistent Homology."
+
+  - title: "Software/Research Developer (Part-Time)"
+    company: "Encryptek LLC, Lake Forest CA"
+    duration: "January 2020 - December 2021"
+    details:
+      - "Deploying Radium product-line onto Amazon’s Cloud Marketplace via AWS FPGA development."
+      - "Cryptography and Cryptocurrency market research."
+      - "Hardware resales."
+      - "Skills: Amazon Cloud Computing, AWS EC2 Development, C++, Verilog, FPGAs, Hardware, Blockchain."
+
+  - title: "Machine Learning Consultant"
+    company: "Madiba LLC, Lake Forest CA"
+    duration: "February 2020 - April 2020"
+    details:
+      - "Incorporated predictive analytics using open source tools in tandem with in-house SAP tools to compare performance and flexibility of different machine learning packages."
+      - "Built TensorFlow models to analyze multivariate irregular time series data."
+      - "Skills: Machine Learning, TensorFlow, SAP Software Consulting."
+
 
 # education
 education:
@@ -71,123 +153,43 @@ education:
       year: "Class of 2015"
       degree: "International Baccalaureate Diploma and AP Scholar."
 
-# experience
-experience:
-  enable: true
-  title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
-  button:
-    icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/jeremy-wayland/"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "#"
 
-  items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
-
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
-
-# Client & Work
-client_and_work:
-  title: "Clients & Works"
-  enable: true
-
-  clients:
-    - logo:
-        x: "images/clients/asgardia.png"
-        _2x: "images/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "images/clients/earth-2.png"
-        _2x: "images/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "images/clients/goldline.png"
-        _2x: "images/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "images/clients/kanba.png"
-        _2x: "images/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "images/clients/zoo-tv.png"
-        _2x: "images/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "images/clients/ztos.png"
-        _2x: "images/clients/ztos@2x.png"
-      alt: "Ztos"
-
-  works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "images/works/radity-finance.jpg"
-        _2x: "images/works/radity-finance@2x.jpg"
-      is_even: true
-
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "images/works/swissfintech.jpg"
-        _2x: "images/works/swissfintech@2x.jpg"
-      is_even: false
-
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "images/works/robo-advisor.jpg"
-        _2x: "images/works/robo-advisor@2x.jpg"
-      is_even: true
-
-# testimonial
+# Project
 testimonial:
   enable: true
-  title: "Testimonials"
+  title: "Projects"
   items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+    - name: "Curvature Filtrations for Graph Generative Model Evaluation"
+      position: "NeurIPS 2023"
+      content: "In response to rising interest for generative model use in 
+      drug development, we introduce a new topological and geometric descriptor 
+      for graph distributions based on curvature filtrations. 
+      As well as favorable stability and expressivity properties, 
+      our method affords scalable statistical comparisons and hypothesis 
+      testing for sets of graphs, providing an exciting and well-principled 
+      method for evaluating Graph Generative Models."
       image:
         x: "images/testimonials/daniel-jordan.jpg"
         _2x: "images/testimonials/daniel-jordan@2x.jpg"
+      github: "https://github.com/aidos-lab/CFGGME"
+      google_scholar: "https://arxiv.org/abs/2301.12906"
 
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+    - name: "Expressivity of Ollivier-Ricci Curvature"
+      position: "ICML 2023 TAGML Workshop"
+      content: "Discrete curvature has recently been used in graph machine 
+      learning to improve performance, understand message-passing and assess 
+      structural differences between graphs. Despite these advancements, the 
+      theoretical properties of discrete curvature measures, such as their 
+      representational power and their relationship to graph features is yet to
+      be fully explored. This paper studies Ollivier--Ricci curvature on graphs,
+      providing both a discussion and empirical analysis of its expressivity, 
+      i.e. the ability to distinguish non-isomorphic graphs.."
       image:
         x: "images/testimonials/jonathan-peters.jpg"
         _2x: "images/testimonials/jonathan-peters@2x.jpg"
 
-    - name: "Antonio Willis"
+    - name: "Mapping the Multiverse of Latent Representations"
       position: "Cyberse, CEO"
       content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
       image:
@@ -199,27 +201,18 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "#"
+    action: "https://formspree.io/f/moqglojy"
+    method: "POST"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    number: "+49 152 2716 2240"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
-  address:
-    title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    email: '<a href="mailto:jeremy.don.wayland@gmail.com">jeremy.don.wayland@gmail.com</a>'
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
 
-# newsletter
-newsletter:
-  enable: true
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
