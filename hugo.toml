@@ -1,6 +1,6 @@
 baseURL = "https://jeremy-wayland.me/"
 languageCode = "en-us"
-theme = "adritian-theme"
+theme = "custom-hugo-theme"
 
 # Plugins
 [params.plugins]
@@ -25,15 +25,21 @@ URL = "js/library/fontfaceobserver.js"
 # navigation
 [menu]
 
+
 [[menu.header]]
-name = "About"
-URL = "#about"
+name = "Education"
+URL = "#education"
 weight = 2
 
 [[menu.header]]
 name = "Experience"
 URL = "#experience"
 weight = 3
+
+[[menu.header]]
+name = "Hobbies"
+URL = "#about"
+weight = 5
 
 [[menu.header]]
 name = "Projects"
@@ -43,18 +49,23 @@ weight = 4
 [[menu.header]]
 name = "Contact"
 URL = "#contact"
-weight = 5
+weight = 6
 
 
 [[menu.footer]]
-name = "About"
-URL = "#about"
+name = "Education"
+URL = "#education"
 weight = 2
 
 [[menu.footer]]
 name = "Experience"
 URL = "#experience"
 weight = 3
+
+[[menu.footer]]
+name = "Hobbies"
+URL = "#about"
+weight = 5
 
 [[menu.footer]]
 name = "Projects"
@@ -64,17 +75,16 @@ weight = 4
 [[menu.footer]]
 name = "Contact"
 URL = "#contact"
-weight = 5
-
+weight = 6
 
 [params]
 
 sections = [
   "showcase",
-  "about",
-  "experience",
   "education",
+  "experience",
   "project",
+  "about",
   "contact",
 ]
 

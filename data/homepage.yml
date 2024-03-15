@@ -3,114 +3,159 @@ showcase:
   enable: true
   title: "Hi, I'm Jeremy."
   subtitle: "Researcher | Founder"
-  description: "Jeremy is interested developing practical and usable topology-based
-  methods for improving our understanding of various generative models. 
-  Additionally, he enjoys applying topological methods in collaborative projects
-  that focus on predictive medicine and/or climate change.
-  Additionally, he enjoys applying topological methods in collaborative projects
-   that focus on predictive medicine and/or climate change."
+  description: "My dream is to bridge the gap between mathematics and machine
+  learning, designing new and interesting data-driven methods that can be 
+  used in health care and environmental science. At the moment,
+  I'm in the second year of my PhD at the Technical University of Munich, 
+  where I'm researching topological and geometric deep learning. 
+  I'm also the co-founder of Krv Analytics, a startup focused on analytics 
+  solutions where we try to leverage our tech to solve problems all over– from
+  investment banks, to hospitals, to developing nations energy grids.
+  I'm always looking for new opportunities to collaborate and learn, and would
+  love to hear from you and exchange ideas."
   image:
-    x: "images/portrait.jpeg"
-    _2x: "images/portrait@2x.jpeg"
+    x: "images/IMG_0238.jpeg"
+    _2x: "images/IMG_0238@2x.jpeg"
   imageMobile:
     alt: "Profile picture of Jeremy Wayland"
-    x: "images/portrait.jpeg"
+    x: "images/portrait.webp"
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
     URL: "mailto:jeremy.don.wayland@gmail.com"
 
   socialLinks:
-  - icon: "icon-mail-fill"
-    URL: ""
   - icon: "github"
     URL: "https://github.com/jeremy-wayland"
   - icon: "linkedin"
     URL: "https://www.linkedin.com/in/jeremy-wayland/"
   - icon: "twitter"
     URL: "https://twitter.com/jeremy_wayland"
+  - icon: "instagram"
+    URL: "https://www.instagram.com/waylandjeremy/"
   - icon: "facebook"
     URL: "https://www.facebook.com/jeremy.wayland.92"
-  # - icon: "orchid"
-  #   URL: "https://orchid.org/0000-0002-1825-0097"
-  # - icon: "google-scholar"
-  #   URL: "https://scholar.google.com/citations?user=your_google_scholar_id"
-  # - icon: "website"
-  #   URL: "https://www.example.com"
 
 
 # about
 
 about:
   enable: true
-  title: "A bit about me."
-  content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
-    </p>
-    <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
-    </p>'
+  title: "More about me!"
+  content: "I'm born and raised in California ☀️ I love to surf, ski,
+  snowboard and and generally enjoy the outdoors. 
+   Now that I live in Munich, I've
+  transitioned to slightly different hobbies like hiking, biking, and spikeball.
+  Although one can indeed surf in Munich, I haven't yet found a true fix for 
+  being in the ocean 🌊 So most of my non-work travels are to the coast, looking 
+  for waves and enjoying the sun 🏄‍♂️ I also like to play and listen to music! 
+  I've been playing the cello for 15 years and although I had to leave my 
+  instrument at home in the states, I'm hoping to get one soon here in Munich🎶 
+  In the meantime, I tide myself 
+  over by messing around on the piano and guitar, and learning German 🇩🇪
+  If you're in the Munich 
+  area and want to jam, throw a frisbee, play soccer, spikeball, or just want
+  to grab a beer, hit me up!
+  I'll have a gallery of fun pictures coming soon, so stay tuned! 📸
+  "
   button:
     icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/in/adrianmoreno/"
+    btnText: "Gallery"
+    URL: "/gallery"
   image:
-    x: "images/manzanillo_.JPG"
-    _2x: "images/manzanillo_@2x.JPG"
+    x: "images/cello1.jpg"
+    _2x: "images/cello1@2x.jpg"
 
 
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: "I'm a bit of a wanderer in the realm of knowledge and innovation. 
-  Currently, I'm diving deep into the world of AI and healthcare as a 
-  Doctoral Researcher at AIDOS Lab, Helmholtz Munich. 
-  Under the guidance of Dr. Bastian Rieck, I'm exploring the fascinating realms 
-  of topological and geometric deep learning, among other mind-bending topics.
-  When I'm not in the lab, you might find me hustling as a Co-founder at Krv 
-  Analytics, where we're on a mission to revolutionize analytics solutions. 
-  It's been a wild ride, from strategic planning to getting our hands dirty with 
-  product development – every step feels like an adventure.
-  But that's not all! I've also had the privilege of interning at the 
-  Children’s Hospital of Orange County, where I got a firsthand look at the 
-  intersection of research and healthcare.
-  Yeah, it's been quite the journey, and I'm just getting started! 🚀"
+  description: "I've been primarily an academic for 
+  for the last decade... which I actually can't believe.
+  I started as an undergrad in mathematics and physics and 
+  finished just in time for the pandemic. I then went on to
+  do a masters in data science and machine learning a few miles
+  from where I grew up. During this time I also was able to pick
+  up some industry experience, working part-time for a hardware
+  acceleration company and a SAP consulting firm. This, along with
+  my masters help me build towards my position at CHOC as a grant-funded
+  Research Scientist. During this position, I worked with my advisor
+  <a href='https://scholar.google.com/citations?user=xu4laD8AAAAJ&hl=en'>Louis
+  Ehwerhemuepha</a> to build a predictive models for early identification
+  of pediatric sepsis. This experience me invited me into the world of 
+  computational topology, an amazing playground straddling the worlds of
+  pure mathematics and machine learning. Next thing I knew, I had accepted
+  an offer to work with <a href='https://bastian.rieck.me/'>Bastian Rieck</a>
+  as a PhD student in the <a href='https://aidos.group/'>AIDOS Lab</a> where 
+  I study an array of topics within the sphere of topological and geometric
+  deep learning. My awesome co-founders (<a href='https://stuartwayland.github.io/'>Stuart Wayland</a> and
+  <a href='https://www.linkedin.com/in/sidney-gathrid/'>Sidney Gathrid</a>) and I
+  also recently founded <a href='https://krv-analytics.us/'>Krv Analytics</a>, thus
+  beginning a new adventure into the a fun world between academia and industry.
+  "
+  
+  # "I'm a bit of a wanderer in the realm of knowledge and innovation. 
+  # Currently, I'm diving deep into the world of AI and healthcare as a 
+  # Doctoral Researcher at AIDOS Lab, Helmholtz Munich. 
+  # Under the guidance of Dr. Bastian Rieck, I'm exploring the fascinating realms 
+  # of topological and geometric deep learning, among other mind-bending topics.
+  # When I'm not in the lab, you might find me hustling as a Co-founder at Krv 
+  # Analytics, where we're on a mission to revolutionize analytics solutions. 
+  # It's been a wild ride, from strategic planning to getting our hands dirty with 
+  # product development – every step feels like an adventure.
+  # But that's not all! I've also had the privilege of interning at the 
+  # Children’s Hospital of Orange County, where I got a firsthand look at the 
+  # intersection of research and healthcare.
+  # Yeah, it's been quite the journey, and I'm just getting started! 🚀"
   button:
-    icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/jeremy-wayland/"
+    icon: "icon-profile-fill"
+    btnText: "Krv Analytics"
+    URL: "https://krv-analytics.us/"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "https://jeremy-wayland.me/cv/Current_CV.pdf"
+    btnText: "CHOC Research"
+    URL: "https://www.choc.org/research/research-computational-science/"
+  button3:
+    URL: "https://www.encryptek.net/"
+    icon: "icon-profile-fill"
+    btnText: "Encyrptek"
+  button4:
+    URL: "https://www.madiba.com/"
+    icon: "icon-profile-fill"
+    btnText: "Madiba"
+  button5:
+    URL: "https://www.linkedin.com/in/jeremy-wayland/"
+    icon: "icon-profile-fill"
+    btnText: My CV
 
   items:
-  - title: "Doctoral Researcher"
-    company: "AIDOS Lab, Helmholtz Munich"
-    duration: "August 2022-Present"
-    details:
-      - "Doctoral Candidate working at the Institute of AI for Health."
-      - "Supervisor: Dr. Bastian Rieck."
-      - "Research Interests: topological and geometric deep learning, graph learning and discrete curvature, diffusion modeling, applying topological data analysis to healthcare and climate change."
-
   - title: "Co-founder"
     company: "Krv Analytics"
+    location: "Los Angeles, California"
     duration: "July 2023 - Present"
     details:
       - "Co-founding and leading a startup focused on analytics solutions."
       - "Responsibilities include strategic planning, product development, and business operations."
 
   - title: "Research Science Doctoral Intern"
-    company: "Children’s Hospital of Orange County, Orange CA"
+    company: "Children’s Hospital of Orange County (CHOC)"
+    location: Orange, California
     duration: "May 2023 - Present"
+  
+  - title: "Doctoral Researcher"
+    company: "Helmholtz Munich"
+    company_link: "Helmholtz Munich"
+    location: "Munich, Germany"
+    duration: "August 2022-Present"
+    details:
+      - "Doctoral Candidate working at the Institute of AI for Health."
+      - "Supervisor: Dr. Bastian Rieck."
+      - "Research Interests: topological and geometric deep learning, graph learning and discrete curvature, diffusion modeling, applying topological data analysis to healthcare and climate change."
 
   - title: "Grant Funded Research Computational Scientist"
-    company: "Children’s Hospital of Orange County, Orange CA"
+    company: "Children’s Hospital of Orange County (CHOC)"
+    location: Orange, California
     duration: "June 2022 - August 2022"
     details:
       - "Predicting onset of sepsis for ED patients using machine learning and artificial intelligence."
@@ -118,7 +163,8 @@ experience:
       - "Skills: Sepsis, Urology, Deep Learning, Python, R, Computational Topology, Persistent Homology."
 
   - title: "Software/Research Developer (Part-Time)"
-    company: "Encryptek LLC, Lake Forest CA"
+    company: "Encryptek LLC"
+    location: "Irvine, California"
     duration: "January 2020 - December 2021"
     details:
       - "Deploying Radium product-line onto Amazon’s Cloud Marketplace via AWS FPGA development."
@@ -127,7 +173,8 @@ experience:
       - "Skills: Amazon Cloud Computing, AWS EC2 Development, C++, Verilog, FPGAs, Hardware, Blockchain."
 
   - title: "Machine Learning Consultant"
-    company: "Madiba LLC, Lake Forest CA"
+    company: "Madiba Inc"
+    location: "Irvine, California"
     duration: "February 2020 - April 2020"
     details:
       - "Incorporated predictive analytics using open source tools in tandem with in-house SAP tools to compare performance and flexibility of different machine learning packages."
@@ -160,6 +207,15 @@ testimonial:
   enable: true
   title: "Projects"
   items:
+    - name: "Mapping the Multiverse of Latent Representations"
+      position: "Preprint"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "images/pipeline.jpg"
+        _2x: "images/pipeline.jpg"
+      github: "https://github.com/aidos-lab/"
+      google_scholar: "https://arxiv.org/abs/2402.01514"
+
     - name: "Curvature Filtrations for Graph Generative Model Evaluation"
       position: "NeurIPS 2023"
       content: "In response to rising interest for generative model use in 
@@ -170,8 +226,8 @@ testimonial:
       testing for sets of graphs, providing an exciting and well-principled 
       method for evaluating Graph Generative Models."
       image:
-        x: "images/testimonials/daniel-jordan.jpg"
-        _2x: "images/testimonials/daniel-jordan@2x.jpg"
+        x: "images/curvature_graph.png"
+        _2x: "images/curvature_graph.png"
       github: "https://github.com/aidos-lab/CFGGME"
       google_scholar: "https://arxiv.org/abs/2301.12906"
 
@@ -186,16 +242,8 @@ testimonial:
       providing both a discussion and empirical analysis of its expressivity, 
       i.e. the ability to distinguish non-isomorphic graphs.."
       image:
-        x: "images/testimonials/jonathan-peters.jpg"
-        _2x: "images/testimonials/jonathan-peters@2x.jpg"
-
-    - name: "Mapping the Multiverse of Latent Representations"
-      position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
-      image:
-        x: "images/testimonials/antonio-willis.jpg"
-        _2x: "images/testimonials/antonio-willis@2x.jpg"
-
+        x: "images/OR.png"
+        _2x: "images/OR.png"
 # contact
 contact:
   enable: true
