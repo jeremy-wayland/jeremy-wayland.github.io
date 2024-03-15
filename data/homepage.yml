@@ -14,10 +14,11 @@ showcase:
   at the<a target='_blank' href='https://www.cit.tum.de/en/cit/home/'> Technical University of Munich</a>
   🇩🇪, where I'm researching topological and geometric deep learning as a member of 
   the <a target='_blank' href='<a target='_blank' href='https://www.cit.tum.de/cit/startseite/'>AIDOS Lab</a>🍩.
-  I'm also a co-founder of <a target='_blank' href='https://krv-analytics.us/'>Krv Analytics</a>,
+  I'm also a co-founder of 
+  <a target='_blank' href='https://krv-analytics.us/'>Krv Analytics</a>📊,
   a startup focused on new-age analytics solutions that target problems aligned
-  with the <a target='_blank' href='https://sdgs.un.org/goals'>UN's Sustainable Development Goals</a>
-  🇺🇳.
+  with the <a target='_blank' href='https://sdgs.un.org/goals'>UN's 
+  Sustainable Development Goals</a>🇺🇳.
   <br/>
   I'm always looking for new opportunities to collaborate, learn, and exchange
   ideas, so please feel free to reach out if you find my page interesting 📮."
@@ -111,7 +112,7 @@ experience:
   <a target='_blank' href='https://www.linkedin.com/in/sidney-gathrid/'>Sidney Gathrid</a> 
   on various projects for the last few years, eventually culminating in us 
   founding <a target='_blank' href='https://krv-analytics.us/'>Krv Analytics</a> in 2023.
-  Stay tuned for more updates on the journey! 🚀
+  Stay tuned for updates on the journey! 🚀
   "
   
   button:
@@ -214,7 +215,7 @@ testimonial:
   title: "Projects"
   items:
     - name: "Mapping the Multiverse of Latent Representations"
-      position: "Preprint"
+      position: "<em>Preprint</em>"
       content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
       image:
         x: "images/pipeline.jpg"
@@ -223,7 +224,7 @@ testimonial:
       google_scholar: "https://arxiv.org/abs/2402.01514"
 
     - name: "Curvature Filtrations for Graph Generative Model Evaluation"
-      position: "NeurIPS 2023"
+      position: "<em> NeurIPS 2023 </em>"
       content: "In response to rising interest for generative model use in 
       drug development, we introduce a new topological and geometric descriptor 
       for graph distributions based on curvature filtrations. 
@@ -238,7 +239,7 @@ testimonial:
       google_scholar: "https://arxiv.org/abs/2301.12906"
 
     - name: "Expressivity of Ollivier-Ricci Curvature"
-      position: "ICML 2023 TAGML Workshop"
+      position: "<em>ICML 2023 TAGML Workshop </em>"
       content: "Discrete curvature has recently been used in graph machine 
       learning to improve performance, understand message-passing and assess 
       structural differences between graphs. Despite these advancements, the 

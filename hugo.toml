@@ -96,7 +96,7 @@ text1 = "Jeremy"
 text2 = "Wayland"
 
 [params.footer]
-copyright = "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+copyright = "Custom theme, built from © Adritian."
 [params.footer.radity_logo]
 x = "img/general/design-and-code-radity.png"
 _2x = "img/general/design-and-code-radity@2x.png"
