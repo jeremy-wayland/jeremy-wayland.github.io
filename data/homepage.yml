@@ -3,16 +3,24 @@ showcase:
   enable: true
   title: "Hi, I'm Jeremy."
   subtitle: "Researcher | Founder"
-  description: "My dream is to bridge the gap between mathematics and machine
-  learning, designing new and interesting data-driven methods that can be 
-  used in health care and environmental science. At the moment,
-  I'm in the second year of my PhD at the Technical University of Munich, 
-  where I'm researching topological and geometric deep learning. 
-  I'm also the co-founder of Krv Analytics, a startup focused on analytics 
-  solutions where we try to leverage our tech to solve problems all over– from
-  investment banks, to hospitals, to developing nations energy grids.
-  I'm always looking for new opportunities to collaborate and learn, and would
-  love to hear from you and exchange ideas."
+  description: "My dream is to use my background in mathematics
+  software development skills to design sophisticated tools
+  that can <em> improve data-driven health care 🩺
+  and help facilitate the urgent action needed to combat climate
+  change ♻️</em>.
+  <br/>
+  At the moment,
+  I'm in the second year of my PhD in mathematics
+  at the<a target='_blank' href='https://www.cit.tum.de/en/cit/home/'> Technical University of Munich</a>
+  🇩🇪, where I'm researching topological and geometric deep learning as a member of 
+  the <a target='_blank' href='<a target='_blank' href='https://www.cit.tum.de/cit/startseite/'>AIDOS Lab</a>🍩.
+  I'm also a co-founder of <a target='_blank' href='https://krv-analytics.us/'>Krv Analytics</a>,
+  a startup focused on new-age analytics solutions that target problems aligned
+  with the <a target='_blank' href='https://sdgs.un.org/goals'>UN's Sustainable Development Goals</a>
+  🇺🇳.
+  <br/>
+  I'm always looking for new opportunities to collaborate, learn, and exchange
+  ideas, so please feel free to reach out if you find my page interesting 📮."
   image:
     x: "images/IMG_0238.jpeg"
     _2x: "images/IMG_0238@2x.jpeg"
@@ -44,7 +52,7 @@ about:
   title: "More about me!"
   content: "I'm born and raised in California ☀️ I love to surf, ski,
   snowboard and and generally enjoy the outdoors. 
-   Now that I live in Munich, I've
+  Now that I live in Munich, I've
   transitioned to slightly different hobbies like hiking, biking, and spikeball.
   Although one can indeed surf in Munich, I haven't yet found a true fix for 
   being in the ocean 🌊 So most of my non-work travels are to the coast, looking 
@@ -61,7 +69,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "Gallery"
-    URL: "/gallery"
+    URL: ""
   image:
     x: "images/cello1.jpg"
     _2x: "images/cello1@2x.jpg"
@@ -73,42 +81,39 @@ experience:
   title: "Experience"
   description: "I've been primarily an academic for 
   for almost a decade... which I actually can't believe.
-  I started as an undergrad in mathematics and physics and 
-  finished just in time for the pandemic. I then went on to
-  do a masters in data science and machine learning a few miles
-  from where I grew up. During this time I also was able to pick
-  up some industry experience, working part-time for a hardware
-  acceleration company and a SAP consulting firm. This, along with
-  my masters help me build towards my position at CHOC as a grant-funded
+  I started as an undergrad in mathematics and physics   
+  at <a target='_blank' href='https://www.berkeley.edu/'>UC Berkeley</a>,
+  finishing just before the pandemic
+  went underway. 
+  During COVID, I completed a masters in data science 
+  and machine learning at 
+  <a target='_blank' href='https://www.chapman.edu/'>Chapman University</a>
+  while living at my childhood home
+  in Orange County. Luckily, I was also was able to pick
+  up some industry experience and hone my development skills,
+  working first as a ML consultant at 
+  <a target='_blank' href='https://www.madiba.com/'>Madiba</a>, and then part-time
+  as a software and research developer for 
+  <a target='_blank' href='https://www.encryptek.net/'>Encryptek</a> during my 
+  Masters. These experiences helped me build 
+  towards my position at CHOC as a grant-funded
   Research Scientist. During this position, I worked with my advisor
-  <a href='https://scholar.google.com/citations?user=xu4laD8AAAAJ&hl=en'>Louis
+  <a target='_blank' href='https://scholar.google.com/citations?user=xu4laD8AAAAJ&hl=en'>Louis
   Ehwerhemuepha</a> to build a predictive models for early identification
-  of pediatric sepsis. This experience me invited me into the world of 
+  of pediatric sepsis. This applied research me invited me into the world of 
   computational topology, an amazing playground straddling the worlds of
-  pure mathematics and machine learning. Next thing I knew, I had accepted
-  an offer to work with <a href='https://bastian.rieck.me/'>Bastian Rieck</a>
-  as a PhD student in the <a href='https://aidos.group/'>AIDOS Lab</a> in 
-  Munich, Germany to study topological and geometric
-  deep learning. Since then, my awesome co-founders (<a href='https://stuartwayland.github.io/'>Stuart Wayland</a> and
-  <a href='https://www.linkedin.com/in/sidney-gathrid/'>Sidney Gathrid</a>) and I
-  have also founded <a href='https://krv-analytics.us/'>Krv Analytics</a>, thus
-  beginning a new adventure into the a fun world between academia and industry.
+  pure mathematics and machine learning. After that I was hooked!
+  Soon after, I accepted
+  an offer to work with <a target='_blank' href='https://bastian.rieck.me/'>Bastian Rieck</a>,
+  studying topological and geometric deep learning.
+  I've also had the pleasure of working with 
+  <a target='_blank' href='https://stuartwayland.github.io/'>Stuart Wayland</a> and
+  <a target='_blank' href='https://www.linkedin.com/in/sidney-gathrid/'>Sidney Gathrid</a> 
+  on various projects for the last few years, eventually culminating in us 
+  founding <a target='_blank' href='https://krv-analytics.us/'>Krv Analytics</a> in 2023.
   Stay tuned for more updates on the journey! 🚀
   "
   
-  # "I'm a bit of a wanderer in the realm of knowledge and innovation. 
-  # Currently, I'm diving deep into the world of AI and healthcare as a 
-  # Doctoral Researcher at AIDOS Lab, Helmholtz Munich. 
-  # Under the guidance of Dr. Bastian Rieck, I'm exploring the fascinating realms 
-  # of topological and geometric deep learning, among other mind-bending topics.
-  # When I'm not in the lab, you might find me hustling as a Co-founder at Krv 
-  # Analytics, where we're on a mission to revolutionize analytics solutions. 
-  # It's been a wild ride, from strategic planning to getting our hands dirty with 
-  # product development – every step feels like an adventure.
-  # But that's not all! I've also had the privilege of interning at the 
-  # Children’s Hospital of Orange County, where I got a firsthand look at the 
-  # intersection of research and healthcare.
-  # Yeah, it's been quite the journey, and I'm just getting started! 🚀"
   button:
     icon: "icon-profile-fill"
     btnText: "Krv Analytics"
@@ -190,13 +195,13 @@ education:
   items:
     - university: "Technical University of Munich"
       year: "2022-Present"
-      degree: "Doctoral Candidate, School of Computation, Information, and Technology."
+      degree: "<em> Doctoral Candidate</em>, School of Computation, Information, and Technology."
     - university: "Chapman University"
       year: "2020-2022"
-      degree: "Master of Science (MSc), Computational and Data Sciences."
+      degree: "<em>Master of Science (MSc) </em>, Computational and Data Sciences."
     - university: "University of California, Berkeley"
       year: "2015-2019"
-      degree: "Bachelor of Arts (BA with Honors), Mathematics | Bachelor of Arts (BA), Astrophysics."
+      degree: "<em> Bachelor of Arts with Honors (BA) </em>, Mathematics | <em>Bachelor of Arts (BA) </em>, Astrophysics."
     - university: "El Toro High School"
       year: "Class of 2015"
       degree: "International Baccalaureate Diploma and AP Scholar."
