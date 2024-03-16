@@ -265,6 +265,8 @@ testimonial:
       image:
         x: "images/OR_formula.png"
         _2x: "images/OR_formula.png"
+      github: "https://github.com/aidos-lab/CFGGME"
+      google_scholar: "https://openreview.net/pdf?id=F1fuuUYui1"
 # contact
 contact:
   enable: true
