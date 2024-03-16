@@ -13,7 +13,7 @@ showcase:
   I'm in the second year of my PhD in mathematics
   at the<a target='_blank' href='https://www.cit.tum.de/en/cit/home/'> Technical University of Munich</a>
   🇩🇪, where I'm researching topological and geometric deep learning as a member of 
-  the <a target='_blank' href='<a target='_blank' href='https://www.cit.tum.de/cit/startseite/'>AIDOS Lab</a>🍩.
+  the <a target='_blank' href='https://aidos.group/'> AIDOS Lab</a>🍩.
   I'm also a co-founder of 
   <a target='_blank' href='https://krv-analytics.us/'>Krv Analytics</a>📊,
   a startup focused on new-age analytics solutions that target problems aligned
@@ -31,7 +31,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "mailto:jeremy.don.wayland@gmail.com"
+    URL: "#contact"
 
   socialLinks:
   - icon: "github"
@@ -132,7 +132,7 @@ experience:
     icon: "icon-profile-fill"
     btnText: "Madiba"
   button5:
-    URL: "https://www.linkedin.com/in/jeremy-wayland/"
+    URL: "/CV.pdf"
     icon: "icon-profile-fill"
     btnText: My CV
 
@@ -280,7 +280,7 @@ contact:
     number: "+49 152 2716 2240"
   email:
     title: "Email"
-    email: '<a href="mailto:jeremy.don.wayland@gmail.com">jeremy.don.wayland@gmail.com</a>'
+    email: <a target='_blank' href="mailto:jeremy.don.wayland@gmail.com">jeremy.don.wayland@gmail.com</a>
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
