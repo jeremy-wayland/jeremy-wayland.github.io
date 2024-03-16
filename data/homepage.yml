@@ -247,8 +247,8 @@ testimonial:
       testing for sets of graphs, providing an exciting and well-principled 
       method for evaluating Graph Generative Models."
       image:
-        x: "images/curvature_graph.png"
-        _2x: "images/curvature_graph.png"
+        x: "images/main_figure.jpeg"
+        _2x: "images/main_figure.jpeg"
       github: "https://github.com/aidos-lab/CFGGME"
       google_scholar: "https://arxiv.org/abs/2301.12906"
 
@@ -263,8 +263,8 @@ testimonial:
       providing both a discussion and empirical analysis of its expressivity, 
       i.e. the ability to distinguish non-isomorphic graphs.."
       image:
-        x: "images/OR.png"
-        _2x: "images/OR.png"
+        x: "images/OR_formula.png"
+        _2x: "images/OR_formula.png"
 # contact
 contact:
   enable: true
