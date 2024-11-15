@@ -137,9 +137,18 @@ experience:
     btnText: My CV
 
   items:
+
+  - title: "Research Consultant"
+    company: "Carslon School of Management, University of Minnesota"
+    location: "Remote | Minneapolis, Minnesota"
+    duration: "March 2024 - Present"
+    details:
+      - "Research Consultant for the CARE-CONNECT grant working on understanding Physician Referral Networks."
+      - "Supervisor: Dr. Russel J. Funk"
+      - "Method and prototype development for graph-based analytics of health care referral systems."
   - title: "Co-founder"
     company: "Krv Analytics"
-    location: "Los Angeles, California"
+    location: "Remote | Los Angeles, California"
     duration: "July 2023 - Present"
     details:
       - "Co-founding and leading a startup focused on analytics solutions."
@@ -147,8 +156,8 @@ experience:
 
   - title: "Research Science Doctoral Intern"
     company: "Children’s Hospital of Orange County (CHOC)"
-    location: Orange, California
-    duration: "May 2023 - Present"
+    location: "Remote | Orange, California"
+    duration: "May 2023 - December 2024"
   
   - title: "Doctoral Researcher"
     company: "Helmholtz Munich"
@@ -169,24 +178,24 @@ experience:
       - "Spearheading multicenter collaboration between CHOC, UCI, McMaster, and University of Iowa for predictive risk analysis of recurring urinary tract infections (UTIs) among children using machine learning and topological data analysis."
       - "Skills: Sepsis, Urology, Deep Learning, Python, R, Computational Topology, Persistent Homology."
 
-  - title: "Software/Research Developer (Part-Time)"
-    company: "Encryptek LLC"
-    location: "Irvine, California"
-    duration: "January 2020 - December 2021"
-    details:
-      - "Deploying Radium product-line onto Amazon’s Cloud Marketplace via AWS FPGA development."
-      - "Cryptography and Cryptocurrency market research."
-      - "Hardware resales."
-      - "Skills: Amazon Cloud Computing, AWS EC2 Development, C++, Verilog, FPGAs, Hardware, Blockchain."
+  # - title: "Software/Research Developer (Part-Time)"
+  #   company: "Encryptek LLC"
+  #   location: "Irvine, California"
+  #   duration: "January 2020 - December 2021"
+  #   details:
+  #     - "Deploying Radium product-line onto Amazon’s Cloud Marketplace via AWS FPGA development."
+  #     - "Cryptography and Cryptocurrency market research."
+  #     - "Hardware resales."
+  #     - "Skills: Amazon Cloud Computing, AWS EC2 Development, C++, Verilog, FPGAs, Hardware, Blockchain."
 
-  - title: "Machine Learning Consultant"
-    company: "Madiba Inc"
-    location: "Irvine, California"
-    duration: "February 2020 - April 2020"
-    details:
-      - "Incorporated predictive analytics using open source tools in tandem with in-house SAP tools to compare performance and flexibility of different machine learning packages."
-      - "Built TensorFlow models to analyze multivariate irregular time series data."
-      - "Skills: Machine Learning, TensorFlow, SAP Software Consulting."
+  # - title: "Machine Learning Consultant"
+  #   company: "Madiba Inc"
+  #   location: "Irvine, California"
+  #   duration: "February 2020 - April 2020"
+  #   details:
+  #     - "Incorporated predictive analytics using open source tools in tandem with in-house SAP tools to compare performance and flexibility of different machine learning packages."
+  #     - "Built TensorFlow models to analyze multivariate irregular time series data."
+  #     - "Skills: Machine Learning, TensorFlow, SAP Software Consulting."
 
 
 # education
@@ -214,6 +223,15 @@ testimonial:
   enable: true
   title: "Projects"
   items:
+    - name: "Characterizing Physician Referral Networks with Ricci Curvature"
+      position: "<em>IPLDSC 2024</em>"
+      content: "Identifying (a) systemic barriers to quality healthcare access and (b) key indicators of care efficacy in the United States remains a significant challenge. To improve our understanding of regional disparities in care delivery, we introduce a novel application of curvature, a geometrical-topological property of networks, to Physician Referral Networks. Our initial findings reveal that Forman-Ricci and Ollivier-Ricci curvature measures, which are known for their expressive power in characterizing network structure, offer promising indicators for detecting variations in healthcare efficacy while capturing a range of significant regional demographic features. We also present `apparent`, an open-source tool that leverages Ricci curvature and other network features to examine correlations between regional Physician Referral Networks structure, local census data, healthcare effectiveness, and patient outcomes."
+      image:
+        x: "images/hsa_networks.jpg"
+        _2x: "images/hsa_networks.jpg"
+      github: "https://github.com/aidos-lab/apparent"
+      google_scholar: "https://arxiv.org/abs/2408.16022"
+
     - name: "Mapping the Multiverse of Latent Representations"
       position: "<em>ICML 2024</em>"
       content: "Echoing recent calls to counter reliability and robustness 
