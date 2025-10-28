@@ -3,22 +3,7 @@ showcase:
   enable: true
   title: "Hi, I'm Jeremy."
   subtitle: "Researcher | Founder"
-  description: "My dream is to use my background in mathematics
-  and software development skills to design sophisticated tools
-  that can <em> improve data-driven health care 🩺
-  and help facilitate the urgent action needed to combat climate
-  change ♻️</em>.
-  <br/>
-  At the moment,
-  I'm in the fourth year of my PhD in mathematics
-  at the<a target='_blank' href='https://www.cit.tum.de/en/cit/home/'> Technical University of Munich</a>
-  🇩🇪, where I'm researching topological and geometric deep learning as a member of 
-  the <a target='_blank' href='https://aidos.group/'> AIDOS Lab</a>🍩.
-  I'm also a co-founder of <a target='_blank' href='https://krv.ai/'>Krv</a>.
-  <a target='_blank' href='https://krv.ai/'>Krv</a>.
-  <br/>
-  I'm always looking for new opportunities to collaborate, learn, and exchange
-  ideas, so please feel free to reach out if you find my page interesting 📮."
+  description: "My dream is to use my background in mathematics and software development skills to design sophisticated tools that can <em> improve data-driven health care 🩺 and help facilitate the urgent action needed to combat climate change ♻️</em>. <br/> At the moment, I'm in the fourth year of my PhD in mathematics at the<a target='_blank' href='https://www.cit.tum.de/en/cit/home/'> Technical University of Munich</a>🇩🇪, where I'm researching topological and geometric deep learning as a member of the <a target='_blank' href='https://aidos.group/'> AIDOS Lab</a>🍩. I'm also a co-founder of <a target='_blank' href='https://krv.ai/'>Krv</a> 🕸️. <br/> I'm always looking for new opportunities to collaborate, learn, and exchange ideas, so please feel free to reach out if you find my page interesting 📮."
   image:
     x: "images/IMG_0238.jpeg"
     _2x: "images/IMG_0238@2x.jpeg"
@@ -48,22 +33,7 @@ showcase:
 about:
   enable: true
   title: "More about me!"
-  content: "I'm born and raised in California ☀️ I love to surf, ski,
-  snowboard and and generally enjoy the outdoors. 
-  Now that I live in Munich, I've
-  transitioned to slightly different hobbies like hiking, biking, and spikeball.
-  Although one can indeed surf in Munich, I haven't yet found a true fix for 
-  being in the ocean 🌊 So most of my non-work travels are to the coast, looking 
-  for waves and enjoying the sun 🏄‍♂️ I also like to play and listen to music! 
-  I've been playing the cello for 15 years and although I had to leave my 
-  instrument at home in the states, I'm hoping to get one soon here in Munich🎶 
-  In the meantime, I tide myself 
-  over by messing around on the piano and guitar, and learning German 🇩🇪
-  If you're in the Munich 
-  area and want to jam, throw a frisbee, play soccer, spikeball, or just want
-  to grab a beer, hit me up!
-  I'll have a gallery of fun pictures coming soon, so stay tuned! 📸
-  "
+  content: "I'm born and raised in California ☀️ I love to surf, ski, snowboard and and generally enjoy the outdoors. Now that I live in Munich, I've transitioned to slightly different hobbies like hiking, biking, and spikeball. Although one can indeed surf in Munich, I haven't yet found a true fix for being in the ocean 🌊 So most of my non-work travels are to the coast, looking for waves and enjoying the sun 🏄‍♂️ I also like to play and listen to music! I've been playing the cello for 15 years and although I had to leave my instrument at home in the states, I'm hoping to get one soon here in Munich🎶 In the meantime, I tide myself over by messing around on the piano and guitar, and learning German 🇩🇪If you're in the Munich area and want to jam, throw a frisbee, play soccer, spikeball, or just want to grab a beer, hit me up! I'll have a gallery of fun pictures coming soon, so stay tuned! 📸"
   button:
     icon: "icon-smile-fill"
     btnText: "Gallery"
@@ -77,45 +47,12 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "I've been primarily an academic for 
-  for almost a decade... which I actually can't believe.
-  I started as an undergrad in mathematics and physics   
-  at <a target='_blank' href='https://www.berkeley.edu/'>UC Berkeley</a>,
-  finishing just before the pandemic
-  went underway. 
-  During COVID, I completed a masters in data science 
-  and machine learning at 
-  <a target='_blank' href='https://www.chapman.edu/'>Chapman University</a>
-  while living at my childhood home
-  in Orange County. Luckily, I was also was able to pick
-  up some industry experience and hone my development skills,
-  working first as a ML consultant at 
-  <a target='_blank' href='https://www.madiba.com/'>Madiba</a>, and then part-time
-  as a software and research developer for 
-  <a target='_blank' href='https://www.encryptek.net/'>Encryptek</a> during my 
-  Masters. These experiences helped me build 
-  towards my position at CHOC as a grant-funded
-  Research Scientist. During this position, I worked with my advisor
-  <a target='_blank' href='https://scholar.google.com/citations?user=xu4laD8AAAAJ&hl=en'>Louis
-  Ehwerhemuepha</a> to build predictive models for early identification
-  of pediatric sepsis. This applied research invited me into the world of 
-  computational topology, an amazing playground straddling the worlds of
-  pure mathematics and machine learning. After that I was hooked!
-  Soon after, I accepted
-  an offer to work with <a target='_blank' href='https://bastian.rieck.me/'>Bastian Rieck</a>,
-  studying topological and geometric deep learning.
-  I've also had the pleasure of working with 
-  <a target='_blank' href='https://stuartwayland.github.io/'>Stuart Wayland</a> and
-  <a target='_blank' href='https://www.linkedin.com/in/sidney-gathrid/'>Sidney Gathrid</a> 
-  on various projects for the last few years, eventually culminating in us 
-  founding <a target='_blank' href='https://krv.ai/'>Krv</a> in 2023– for any math-inclined readers out there, our first project together (now published in <a target='_blank' href='https://www.nature.com/articles/s41560-025-01871-0>Nature Energy</a>) featured an algorithm that used discrete versions of Riemannian curvature for graphs... hence the name "Krv", short for "curvature".
-  For updates on our journey, checkout out our <a target='_blank' href='https://krv.ai/news'>News section</a>! 🚀
-  "
+  description: "I've been primarily an academic for almost a decade... which I actually can't believe. I started as an undergrad in mathematics and physics at <a target='_blank' href='https://www.berkeley.edu/'>UC Berkeley</a>,finishing just before the pandemic went underway. During COVID, I completed a masters in data science and machine learning at <a target='_blank' href='https://www.chapman.edu/'>Chapman University</a> while living at my childhood home in Orange County. Luckily, I was also was able to pick up some industry experience and hone my development skills, working first as a ML consultant at <a target='_blank' href='https://www.madiba.com/'>Madiba</a>, and then part-time as a software and research developer for <a target='_blank' href='https://www.encryptek.net/'>Encryptek</a> during my  Masters. These experiences helped me build towards my position at CHOC as a grant-funded Research Scientist. During this position, I worked with my advisor <a target='_blank' href='https://scholar.google.com/citations?user=xu4laD8AAAAJ&hl=en'>Louis Ehwerhemuepha</a> to build predictive models for early identification of pediatric sepsis. This applied research invited me into the world of  computational topology, an amazing playground straddling the worlds of pure mathematics and machine learning. After that I was hooked! Soon after, I accepted an offer to work with <a target='_blank' href='https://bastian.rieck.me/'>Bastian Rieck</a>, studying topological and geometric deep learning. I've also had the pleasure of working with <a target='_blank' href='https://stuartwayland.github.io/'>Stuart Wayland</a> and <a target='_blank' href='https://www.linkedin.com/in/sidney-gathrid/'>Sidney Gathrid</a>  on various projects for the last few years, eventually culminating in us founding <a target='_blank' href='https://krv.ai/'>Krv</a> in 2023– for any math-inclined readers out there, our first project together (now published in <a target='_blank' href='https://www.nature.com/articles/s41560-025-01871-0'>Nature Energy</a>) featured an algorithm that used discrete versions of Riemannian curvature for graphs... hence the name 'Krv', short for 'curvature'. For updates on our journey, check out our <a target='_blank' href='https://krv.ai/news'>News section</a>! 🚀"
   
   button:
     icon: "icon-profile-fill"
-    btnText: "Krv Analytics"
-    URL: "https://krv-analytics.us/"
+    btnText: "Krv Labs"
+    URL: "https://krv.ai/"
   button2:
     icon: "icon-profile-fill"
     btnText: "CHOC Research"
@@ -175,24 +112,6 @@ experience:
       - "Spearheading multicenter collaboration between CHOC, UCI, McMaster, and University of Iowa for predictive risk analysis of recurring urinary tract infections (UTIs) among children using machine learning and topological data analysis."
       - "Skills: Sepsis, Urology, Deep Learning, Python, R, Computational Topology, Persistent Homology."
 
-  # - title: "Software/Research Developer (Part-Time)"
-  #   company: "Encryptek LLC"
-  #   location: "Irvine, California"
-  #   duration: "January 2020 - December 2021"
-  #   details:
-  #     - "Deploying Radium product-line onto Amazon’s Cloud Marketplace via AWS FPGA development."
-  #     - "Cryptography and Cryptocurrency market research."
-  #     - "Hardware resales."
-  #     - "Skills: Amazon Cloud Computing, AWS EC2 Development, C++, Verilog, FPGAs, Hardware, Blockchain."
-
-  # - title: "Machine Learning Consultant"
-  #   company: "Madiba Inc"
-  #   location: "Irvine, California"
-  #   duration: "February 2020 - April 2020"
-  #   details:
-  #     - "Incorporated predictive analytics using open source tools in tandem with in-house SAP tools to compare performance and flexibility of different machine learning packages."
-  #     - "Built TensorFlow models to analyze multivariate irregular time series data."
-  #     - "Skills: Machine Learning, TensorFlow, SAP Software Consulting."
 
 
 # education
@@ -221,11 +140,11 @@ testimonial:
   title: "Projects"
   items:
     - name: "Strategies to accelerate US coal power phase-out using contextual retirement vulnerabilities"
-      position: "<em>Nature Energy, October 23, 2025</em>"
+      position: "<em>Nature Energy 2025</em>"
       content: "Strategically planning the phase-out of coal power is critical to achieve climate targets, yet current approaches often fail to account for the context-specific barriers and vulnerabilities to retirement. Here we introduce a framework that combines graph theory and topological data analysis to classify the US coal fleet into eight distinct groups based on technical, economic, environmental and socio-political characteristics. We calculate each non-retiring coal plant’s ‘contextual retirement vulnerability’ score, a metric developed to quantify susceptibility to retirement drivers using the graph-based distance to a coal plant with an announced early retirement. Separately, we identify ‘retirement archetypes’ that explain the key factors driving announced retirements within each group, which are used to inform group-specific strategies for accelerating retirements. Our findings reveal the diverse strategies that are required to accelerate the phase-out of remaining coal plants, including regulatory compliance, public health campaigns and economic incentives."
       image:
-        x: "images/coal.jpg"
-        _2x: "images/coal.jpg"
+        x: "images/coal.jpeg"
+        _2x: "images/coal.jpeg"
       github: "https://github.com/Krv-Analytics/Thema"
       google_scholar: "https://www.nature.com/articles/s41560-025-01871-0"
 
