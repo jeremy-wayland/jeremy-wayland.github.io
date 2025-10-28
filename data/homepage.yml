@@ -10,15 +10,12 @@ showcase:
   change ♻️</em>.
   <br/>
   At the moment,
-  I'm in the second year of my PhD in mathematics
+  I'm in the fourth year of my PhD in mathematics
   at the<a target='_blank' href='https://www.cit.tum.de/en/cit/home/'> Technical University of Munich</a>
   🇩🇪, where I'm researching topological and geometric deep learning as a member of 
   the <a target='_blank' href='https://aidos.group/'> AIDOS Lab</a>🍩.
-  I'm also a co-founder of 
-  <a target='_blank' href='https://krv-analytics.us/'>Krv Analytics</a>📊,
-  a startup focused on new-age analytics solutions that target problems aligned
-  with the <a target='_blank' href='https://sdgs.un.org/goals'>UN's 
-  Sustainable Development Goals</a>🇺🇳.
+  I'm also a co-founder of <a target='_blank' href='https://krv.ai/'>Krv</a>.
+  <a target='_blank' href='https://krv.ai/'>Krv</a>.
   <br/>
   I'm always looking for new opportunities to collaborate, learn, and exchange
   ideas, so please feel free to reach out if you find my page interesting 📮."
@@ -111,8 +108,8 @@ experience:
   <a target='_blank' href='https://stuartwayland.github.io/'>Stuart Wayland</a> and
   <a target='_blank' href='https://www.linkedin.com/in/sidney-gathrid/'>Sidney Gathrid</a> 
   on various projects for the last few years, eventually culminating in us 
-  founding <a target='_blank' href='https://krv-analytics.us/'>Krv Analytics</a> in 2023.
-  Stay tuned for updates on the journey! 🚀
+  founding <a target='_blank' href='https://krv.ai/'>Krv</a> in 2023– for any math-inclined readers out there, our first project together (now published in <a target='_blank' href='https://www.nature.com/articles/s41560-025-01871-0>Nature Energy</a>) featured an algorithm that used discrete versions of Riemannian curvature for graphs... hence the name "Krv", short for "curvature".
+  For updates on our journey, checkout out our <a target='_blank' href='https://krv.ai/news'>News section</a>! 🚀
   "
   
   button:
@@ -147,7 +144,7 @@ experience:
       - "Supervisor: Dr. Russel J. Funk"
       - "Method and prototype development for graph-based analytics of health care referral systems."
   - title: "Co-founder"
-    company: "Krv Analytics"
+    company: "Krv"
     location: "Remote | Los Angeles, California"
     duration: "July 2023 - Present"
     details:
@@ -223,9 +220,18 @@ testimonial:
   enable: true
   title: "Projects"
   items:
+    - name: "Strategies to accelerate US coal power phase-out using contextual retirement vulnerabilities"
+      position: "<em>Nature Energy, October 23, 2025</em>"
+      content: "Strategically planning the phase-out of coal power is critical to achieve climate targets, yet current approaches often fail to account for the context-specific barriers and vulnerabilities to retirement. Here we introduce a framework that combines graph theory and topological data analysis to classify the US coal fleet into eight distinct groups based on technical, economic, environmental and socio-political characteristics. We calculate each non-retiring coal plant’s ‘contextual retirement vulnerability’ score, a metric developed to quantify susceptibility to retirement drivers using the graph-based distance to a coal plant with an announced early retirement. Separately, we identify ‘retirement archetypes’ that explain the key factors driving announced retirements within each group, which are used to inform group-specific strategies for accelerating retirements. Our findings reveal the diverse strategies that are required to accelerate the phase-out of remaining coal plants, including regulatory compliance, public health campaigns and economic incentives."
+      image:
+        x: "images/coal.jpg"
+        _2x: "images/coal.jpg"
+      github: "https://github.com/Krv-Analytics/Thema"
+      google_scholar: "https://www.nature.com/articles/s41560-025-01871-0"
+
     - name: "No Metric to Rule Them All: Toward Principled Evaluations of Graph-Learning Datasets"
       position: "<em>ICML 2025</em>"
-      content: "Benchmark datasets have proved pivotal to the success of graph learning, and good benchmark datasets are crucial to guide the development of the field. Recent research has highlighted problems with graph-learning datasets and benchmarking practices -- revealing, for example, that methods which ignore the graph structure can outperform graph-based approaches on popular benchmark datasets. Such findings raise two questions: (1) What makes a good graph-learning dataset, and (2) how can we evaluate dataset quality in graph learning? Our work addresses these questions. As the classic evaluation setup uses datasets to evaluate models, it does not apply to dataset evaluation. Hence, we start from first principles. Observing that graph-learning datasets uniquely combine two modes -- the graph structure and the node features -- , we introduce RINGS, a flexible and extensible mode-perturbation framework to assess the quality of graph-learning datasets based on dataset ablations -- i.e., by quantifying differences between the original dataset and its perturbed representations. Within this framework, we propose two measures -- performance separability and mode complementarity -- as evaluation tools, each assessing, from a distinct angle, the capacity of a graph dataset to benchmark the power and efficacy of graph-learning methods. We demonstrate the utility of our framework for graph-learning dataset evaluation in an extensive set of experiments and derive actionable recommendations for improving the evaluation of graph-learning methods. Our work opens new research directions in data-centric graph learning, and it constitutes a first step toward the systematic evaluation of evaluations. Code will be released soon :-)"
+      content: "Benchmark datasets have proved pivotal to the success of graph learning, and good benchmark datasets are crucial to guide the development of the field. Recent research has highlighted problems with graph-learning datasets and benchmarking practices -- revealing, for example, that methods which ignore the graph structure can outperform graph-based approaches on popular benchmark datasets. Such findings raise two questions: (1) What makes a good graph-learning dataset, and (2) how can we evaluate dataset quality in graph learning? Our work addresses these questions. As the classic evaluation setup uses datasets to evaluate models, it does not apply to dataset evaluation. Hence, we start from first principles. Observing that graph-learning datasets uniquely combine two modes -- the graph structure and the node features -- , we introduce RINGS, a flexible and extensible mode-perturbation framework to assess the quality of graph-learning datasets based on dataset ablations -- i.e., by quantifying differences between the original dataset and its perturbed representations. Within this framework, we propose two measures -- performance separability and mode complementarity -- as evaluation tools, each assessing, from a distinct angle, the capacity of a graph dataset to benchmark the power and efficacy of graph-learning methods. We demonstrate the utility of our framework for graph-learning dataset evaluation in an extensive set of experiments and derive actionable recommendations for improving the evaluation of graph-learning methods. Our work opens new research directions in data-centric graph learning, and it constitutes a first step toward the systematic evaluation of evaluations."
       image:
         x: "images/rings.jpg"
         _2x: "images/rings.jpg"
