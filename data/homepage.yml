@@ -5,11 +5,11 @@ showcase:
   subtitle: "Researcher | Founder"
   description: "My dream is to use my background in mathematics and software development skills to design sophisticated tools that can <em> improve data-driven health care 🩺 and help facilitate the urgent action needed to combat climate change ♻️</em>. <br/> At the moment, I'm in the fourth year of my PhD in mathematics at the<a target='_blank' href='https://www.cit.tum.de/en/cit/home/'> Technical University of Munich</a>🇩🇪, where I'm researching topological and geometric deep learning as a member of the <a target='_blank' href='https://aidos.group/'> AIDOS Lab</a>🍩. I'm also a co-founder of <a target='_blank' href='https://krv.ai/'>Krv</a> 🕸️. <br/> I'm always looking for new opportunities to collaborate, learn, and exchange ideas, so please feel free to reach out if you find my page interesting 📮."
   image:
-    x: "images/IMG_0238.jpeg"
-    _2x: "images/IMG_0238@2x.jpeg"
+    x: "images/jeremy-hs.png"
+    _2x: "images/jeremy-hs.png"
   imageMobile:
     alt: "Profile picture of Jeremy Wayland"
-    x: "images/portrait.webp"
+    x: "images/jeremy-hs.png"
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
