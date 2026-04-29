@@ -27,65 +27,54 @@ URL = "js/library/fontfaceobserver.js"
 
 
 [[menu.header]]
-name = "Education"
-URL = "#education"
+name = "Publications"
+URL = "#projects"
 weight = 2
+
+[[menu.header]]
+name = "Open Source"
+URL = "#opensource"
+weight = 3
 
 [[menu.header]]
 name = "Experience"
 URL = "#experience"
-weight = 3
-
-[[menu.header]]
-name = "Hobbies"
-URL = "#about"
-weight = 5
-
-[[menu.header]]
-name = "Projects"
-URL = "#projects"
 weight = 4
 
 [[menu.header]]
-name = "Contact"
-URL = "#contact"
-weight = 6
+name = "Education"
+URL = "#education"
+weight = 5
 
 
 [[menu.footer]]
-name = "Education"
-URL = "#education"
+name = "Publications"
+URL = "#projects"
 weight = 2
+
+[[menu.footer]]
+name = "Open Source"
+URL = "#opensource"
+weight = 3
 
 [[menu.footer]]
 name = "Experience"
 URL = "#experience"
-weight = 3
-
-[[menu.footer]]
-name = "Hobbies"
-URL = "#about"
-weight = 5
-
-[[menu.footer]]
-name = "Projects"
-URL = "#projects"
 weight = 4
 
 [[menu.footer]]
-name = "Contact"
-URL = "#contact"
-weight = 6
+name = "Education"
+URL = "#education"
+weight = 5
 
 [params]
 
 sections = [
-  "showcase",
-  "education",
-  "experience",
-  "project",
-  "about",
-  "contact",
+  "showcase.html",
+  "project.html",
+  "opensource.html",
+  "experience.html",
+  "education.html",
 ]
 
 googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
