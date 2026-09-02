@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hi, I'm Jeremy."
   subtitle: "Researcher | Founder"
-  description: "My dream is to use my background in mathematics and software development skills to design sophisticated tools that can <em>improve data-driven healthcare and help facilitate the urgent action needed to combat climate change</em>. <br/><br/> I'm completing my PhD at the <a target='_blank' href='https://www.cit.tum.de/en/cit/home/'>Technical University of Munich</a>, researching topological and geometric deep learning as a member of the <a target='_blank' href='https://aidos.group/'>AIDOS Lab</a> at the University of Fribourg. I'm also a co-founder of <a target='_blank' href='https://krv.ai/'>Krv Labs</a>, where we build clinical trial platforms for AI models—finding failure modes, fixing what breaks, and shipping with evidence. <br/><br/> Always looking for new opportunities to collaborate and exchange ideas—feel free to reach out!"
+  description: "My dream is to use my background in mathematics and software development to design sophisticated tools that can <em>improve data-driven healthcare and help facilitate the urgent action needed to combat climate change</em>. <br/><br/> I'm completing my PhD at the <a target='_blank' href='https://www.cit.tum.de/en/cit/home/'>Technical University of Munich</a>, researching topological and geometric deep learning as a member of the <a target='_blank' href='https://aidos.group/'>AIDOS Lab</a> at the University of Fribourg. I'm also a co-founder of <a target='_blank' href='https://trials.krv.ai/'>Krv Labs</a>, where we accelerate patient discovery in clinical trials by transforming complex eligibility criteria into reviewable longitudinal EHR searches. <br/><br/> Always looking for new opportunities to collaborate and exchange ideas—feel free to reach out!"
   image:
     x: "images/jeremy-hs.png"
     _2x: "images/jeremy-hs.png"
@@ -47,12 +47,12 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "I started as an undergrad in mathematics and physics at <a target='_blank' href='https://www.berkeley.edu/'>UC Berkeley</a>, then completed a masters in data science at <a target='_blank' href='https://www.chapman.edu/'>Chapman University</a>. Along the way, I gained industry experience as an ML consultant at <a target='_blank' href='https://www.madiba.com/'>Madiba</a> and as a research developer at <a target='_blank' href='https://www.encryptek.net/'>Encryptek</a>. <br/><br/> These experiences led me to CHOC as a grant-funded Research Scientist, where I worked with <a target='_blank' href='https://scholar.google.com/citations?user=xu4laD8AAAAJ&hl=en'>Louis Ehwerhemuepha</a> on predictive models for pediatric sepsis—and discovered my passion for computational topology. I then joined <a target='_blank' href='https://bastian.rieck.me/'>Bastian Rieck's</a> <a target='_blank' href='https://aidos.group/'>AIDOS Lab</a> at the University of Fribourg to pursue a PhD in topological and geometric deep learning. <br/><br/> In 2023, I co-founded <a target='_blank' href='https://krv.ai/'>Krv Labs</a> with <a target='_blank' href='https://stuartwayland.github.io/'>Stuart Wayland</a> and <a target='_blank' href='https://www.linkedin.com/in/sidney-gathrid/'>Sidney Gathrid</a>. Our first project together used discrete Riemannian curvature for graphs—hence the name 'Krv'. That work is now published in <a target='_blank' href='https://www.nature.com/articles/s41560-025-01871-0'>Nature Energy</a>. Today, Krv builds clinical trial platforms for AI models, helping teams find failure modes and ship with evidence."
+  description: "I started as an undergrad in mathematics and physics at <a target='_blank' href='https://www.berkeley.edu/'>UC Berkeley</a>, then completed a master's in data science at <a target='_blank' href='https://www.chapman.edu/'>Chapman University</a>. Along the way, I gained industry experience as an ML consultant at <a target='_blank' href='https://www.madiba.com/'>Madiba</a> and as a research developer at <a target='_blank' href='https://www.encryptek.net/'>Encryptek</a>. <br/><br/> These experiences led me to CHOC as a grant-funded Research Scientist, where I worked with <a target='_blank' href='https://scholar.google.com/citations?user=xu4laD8AAAAJ&hl=en'>Louis Ehwerhemuepha</a> on predictive models for pediatric sepsis—and discovered my passion for computational topology. I then joined <a target='_blank' href='https://bastian.rieck.me/'>Bastian Rieck's</a> <a target='_blank' href='https://aidos.group/'>AIDOS Lab</a> at the University of Fribourg to pursue a PhD in topological and geometric deep learning. <br/><br/> <a target='_blank' href='https://stuartwayland.github.io/'>Stuart Wayland</a>, <a target='_blank' href='https://www.linkedin.com/in/sidney-gathrid/'>Sidney Gathrid</a>, and I have collaborated since 2023, officially founding <a target='_blank' href='https://trials.krv.ai/'>Krv Labs</a> in August 2026. What began with graph Riemannian curvature—published in <a target='_blank' href='https://www.nature.com/articles/s41560-025-01871-0'>Nature Energy</a>—evolved into Krv (<em>Kepler Riemann von Neumann</em>), honoring the lineage of pioneers who refused to accept 'good enough': Kepler mapped celestial mechanics, Riemann reshaped geometry, and von Neumann laid the foundations of modern computation. Today, Krv builds patient discovery infrastructure to match clinical trial criteria across comprehensive patient records."
   
   button:
     icon: "icon-profile-fill"
     btnText: "Krv Labs"
-    URL: "https://krv.ai/"
+    URL: "https://trials.krv.ai/"
   button2:
     icon: "icon-profile-fill"
     btnText: "CHOC Research"
@@ -60,7 +60,7 @@ experience:
   button3:
     URL: "https://www.encryptek.net/"
     icon: "icon-profile-fill"
-    btnText: "Encyrptek"
+    btnText: "Encryptek"
   button4:
     URL: "https://www.madiba.com/"
     icon: "icon-profile-fill"
@@ -68,45 +68,44 @@ experience:
   button5:
     URL: "/CV.pdf"
     icon: "icon-profile-fill"
-    btnText: My CV
+    btnText: "My CV"
 
   items:
 
+  - title: "Co-Founder and Chief Science Officer"
+    company: "Krv Labs"
+    location: "Remote | Los Angeles, California"
+    duration: "August 2026 - Present"
+    details:
+      - "Leading clinical trial patient discovery, including longitudinal search across diagnoses, treatments, and clinical notes."
+      - "Architecting platform infrastructure powered by topological and geometric representation learning and EHR foundation models."
+
   - title: "Research Consultant"
-    company: "Carslon School of Management, University of Minnesota"
+    company: "Carlson School of Management, University of Minnesota"
     location: "Remote | Minneapolis, Minnesota"
     duration: "March 2024 - Present"
     details:
-      - "Research Consultant for the CARE-CONNECT grant working on understanding Physician Referral Networks."
-      - "Supervisor: Dr. Russel J. Funk"
-      - "Method and prototype development for graph-based analytics of health care referral systems."
-  - title: "Co-founder"
-    company: "Krv Labs"
-    location: "Remote | Los Angeles, California"
-    duration: "July 2023 - Present"
-    details:
-      - "Building clinical trial platforms for AI models—stress-testing, validation, and FDA CDS compliance."
-      - "Leading product development for the Pasteur Platform, producing evidence packages for clinical AI deployment."
-      - "Published research in Nature Energy using topological data analysis for climate policy applications."
+      - "Research Consultant for the CARE-CONNECT grant, analyzing Physician Referral Networks."
+      - "Supervisor: Dr. Russell J. Funk"
+      - "Developing graph-based analytics methods and prototypes for healthcare referral systems."
 
   - title: "Research Science Doctoral Intern"
     company: "Children’s Hospital of Orange County (CHOC)"
     location: "Remote | Orange, California"
     duration: "May 2023 - December 2024"
-  
+
   - title: "Doctoral Researcher"
     company: "Helmholtz Munich"
     company_link: "Helmholtz Munich"
     location: "Munich, Germany"
-    duration: "August 2022-Present"
+    duration: "August 2022 - August 2026"
     details:
-      - "Doctoral Candidate working at the Institute of AI for Health."
-      - "Supervisor: Dr. Bastian Rieck."
+      - "Doctoral Researcher working at the Institute of AI for Health with Dr. Bastian Rieck."
       - "Research Interests: topological and geometric deep learning, graph learning and discrete curvature, diffusion modeling, applying topological data analysis to healthcare and climate change."
 
   - title: "Grant Funded Research Computational Scientist"
     company: "Children’s Hospital of Orange County (CHOC)"
-    location: Orange, California
+    location: "Orange, California"
     duration: "June 2022 - August 2022"
     details:
       - "Predicting onset of sepsis for ED patients using machine learning and artificial intelligence."
