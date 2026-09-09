@@ -121,7 +121,7 @@ education:
   items:
     - university: "Technical University of Munich"
       year: "2022-Present"
-      degree: "<em> Doctoral Candidate</em>, School of Computation, Information, and Technology."
+      degree: "<em> Doctoral Candidate</em>, School of Computation, Information, and Technology. <a target='_blank' href='/Thesis.pdf'>[Thesis]</a>"
     - university: "Chapman University"
       year: "2020-2022"
       degree: "<em>Master of Science (MSc) </em>, Computational and Data Sciences."
